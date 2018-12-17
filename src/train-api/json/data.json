@@ -1,0 +1,55 @@
+[{
+    "startTime": "13:45",
+    "startAddress": "北京南",
+    "endTime": "20:05",
+    "endAddress": "上海虹桥",
+    "price": 553,
+    "time": "6时20分",
+    "train": "G139",
+    "zuo": ["二等座（有票）", "一等座（有票）", "商务座 18", "无座（补）"]
+}, {
+    "startTime": "14:00",
+    "startAddress": "北京南",
+    "endTime": "18:28",
+    "endAddress": "上海虹桥",
+    "price": 553,
+    "time": "4时28分",
+    "train": "G3",
+    "zuo": "该车次坐席均售空"
+}, {
+    "startTime": "13:45",
+    "startAddress": "北京南",
+    "endTime": "20:05",
+    "endAddress": "上海虹桥",
+    "price": 553,
+    "time": "6时20分",
+    "train": "G139",
+    "zuo": ["二等座（有票）", "一等座（有票）", "商务座 18", "无座（补）"]
+}, {
+    "startTime": "13:45",
+    "startAddress": "北京南",
+    "endTime": "20:05",
+    "endAddress": "上海虹桥",
+    "price": 553,
+    "time": "6时20分",
+    "train": "G139",
+    "zuo": ["二等座（有票）", "一等座（有票）", "商务座 18", "无座（补）"]
+}, {
+    "startTime": "13:45",
+    "startAddress": "北京南",
+    "endTime": "20:05",
+    "endAddress": "上海虹桥",
+    "price": 553,
+    "time": "6时20分",
+    "train": "G139",
+    "zuo": ["二等座（有票）", "一等座（有票）", "商务座 18", "无座（补）"]
+}, {
+    "startTime": "13:45",
+    "startAddress": "北京南",
+    "endTime": "20:05",
+    "endAddress": "上海虹桥",
+    "price": 553,
+    "time": "6时20分",
+    "train": "G139",
+    "zuo": ["二等座（有票）", "一等座（有票）", "商务座 18", "无座（补）"]
+}]
