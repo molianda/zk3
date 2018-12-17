@@ -12,7 +12,14 @@ gulp.task('watch', function() {
 gulp.task('server', function() {
     return gulp.src('src')
         .pipe(server({
-            port: '9090'
+            port: '9090',
+            proxies: [{
+                source: "/api/get/train_tickets",
+                target: "http://localhost:3000/api/get/train_tickets"
+            }, {
+                source: "/api/trains",
+                target: "http://localhost:3000/api/trains"
+            }]
         }))
 });
 gulp.task('dev', gulp.series('sass', 'server', 'watch'));
